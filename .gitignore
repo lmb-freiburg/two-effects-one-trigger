@@ -1,3 +1,10 @@
+.vscode
+debug
+figures
+results
+datasets
+jobs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

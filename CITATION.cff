@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you find our approach interesting for your own work, please cite it as below."
+authors:
+  - family-names: Schrodi
+    given-names: Simon
+  - family-names: Hoffmann
+    given-names: David
+  - family-names: Argus
+    given-names: Max
+  - family-names: Fischer
+    given-names: Volker
+  - family-names: Brox
+    given-names: Thomas
+title: "Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models"
+version: 0.1.0
+url: "https://github.com/lmb-freiburg/two-effects-one-trigger"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Schrodi
+    given-names: Simon
+  - family-names: Hoffmann
+    given-names: David
+  - family-names: Argus
+    given-names: Max
+  - family-names: Fischer
+    given-names: Volker
+  - family-names: Brox
+    given-names: Thomas
+  url: "https://openreview.net/forum?id=uAFHCZRmXk"
+  collection-title: "The Thirteenth International Conference on Learning Representations"
+  title: "Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models"
+  year: 2025
