@@ -54,12 +54,12 @@ This part describes how you can reproduce the results from the analysis of the m
 * To re-create Figure 5a, run: `python analysis/object_bias_vs_performance.py`
 * To re-create Figure 5b, run: `python analysis/object_vs_attribute_performance.py`
 
-## CLIP trainings on MAD
+## CLIP trainings on synthetic data (MAD)
 
 We provide the dataset implementation in `mad_dataset`. The augmentations are partly based on [Morpho-MNIST](https://github.com/dccastro/Morpho-MNIST).
 
 Unfortunately, we are not allowed to share the training and evaluation code. To reproduce our experiments, you can adopt standard CLIP training pipelines and adapt the provided evaluation protocols.
 
-## CLIP trainings on CC12M and CC3M, and DCI finetuning
+## CLIP trainings on real data (CC12M and CC3M training, and DCI finetuning)
 
 The code for training of CLIP models on CC12M and CC3M in [clip_on_real_data](clip_on_real_data/) is adopted from [OpenCLIP](https://github.com/mlfoundations/open_clip). We provide setup and run instructions in the [README in clip_on_real_data](clip_on_real_data/README.md).
